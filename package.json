@@ -1,0 +1,20 @@
+{
+  "name": "svg2gcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.1.4",
+    "simple-svg-tools": "^1.1.12",
+    "svgpath": "^2.2.1",
+    "svgutils": "^0.13.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}

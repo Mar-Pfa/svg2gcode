@@ -1,11 +1,11 @@
-# H1 svg2gcode
+# svg2gcode
 
 svg2cgode is a small helper tool for converting svg-export from OpenSCAD to gcode for my laser cutter
 it does not support the full SVG features but only what is needed to create gcode based on a OpenSCAD "projection"
 outputs estimated production times based on the calculated feedrates
 supports M118 / Progressinformation during the production process
 
-# H2 Usage
+## Usage
 
 supports a range of parameters (can be all configured in index.js)
 
