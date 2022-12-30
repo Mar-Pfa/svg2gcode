@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "simple-svg-tools": "^1.1.12",
     "svgpath": "^2.2.1",
     "svgutils": "^0.13.6"
